@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-en-react",
   "private": true,
+  "homepage": "https://sairbarreto.github.io/eCommerce_en_REACT/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
