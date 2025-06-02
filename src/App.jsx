@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Productos from './pages/Productos';
 import Contacto from './pages/Contacto';
 import NotFound from './pages/NotFound';
+import Carrito from './pages/Carrito';
 import { CartProvider } from './context/CartContext';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/productos" element={<Productos />} />
             <Route path="/contacto" element={<Contacto />} />
+            <Route path="/carrito" element={<Carrito />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </MainLayout>
