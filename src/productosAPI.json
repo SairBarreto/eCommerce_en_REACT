@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares SAIRCORP Pro X",
+    "precio": 12999,
+    "imagen": "https://via.placeholder.com/300x200?text=Auriculares+Pro+X",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido y micrófono integrado."
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Gamer HyperTrack",
+    "precio": 8499,
+    "imagen": "https://via.placeholder.com/300x200?text=Mouse+Gamer",
+    "descripcion": "Mouse RGB con 6 botones programables y sensor óptico de alta precisión."
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico ThunderKeys",
+    "precio": 15999,
+    "imagen": "https://via.placeholder.com/300x200?text=Teclado+Mecánico",
+    "descripcion": "Teclado mecánico con switches azules y retroiluminación RGB completa."
+  },
+  {
+    "id": 4,
+    "nombre": "Procesador Ryzen 5 5600X",
+    "precio": 84999,
+    "imagen": "https://via.placeholder.com/300x200?text=Ryzen+5+5600X",
+    "descripcion": "Procesador de 6 núcleos y 12 hilos con excelente rendimiento en gaming y tareas intensivas."
+  },
+  {
+    "id": 5,
+    "nombre": "Memoria RAM DDR4 16GB",
+    "precio": 19999,
+    "imagen": "https://via.placeholder.com/300x200?text=RAM+16GB",
+    "descripcion": "Módulo de memoria RAM DDR4 de 16GB con frecuencia de 3200MHz."
+  },
+  {
+    "id": 6,
+    "nombre": "Monitor 24\" Full HD",
+    "precio": 47999,
+    "imagen": "https://via.placeholder.com/300x200?text=Monitor+24pulgadas",
+    "descripcion": "Monitor LED de 24 pulgadas con resolución Full HD y tasa de refresco de 75Hz."
+  }
+]

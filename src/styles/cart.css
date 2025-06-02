@@ -1,0 +1,31 @@
+.cart {
+  background: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cart li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.cart button {
+  background-color: var(--color-secundario);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.cart button:hover {
+  background-color: var(--color-primario);
+}
